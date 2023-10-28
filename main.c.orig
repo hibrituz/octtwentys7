@@ -1,3 +1,6 @@
 this is master file
+<<<<<<< HEAD
 this is the firts change
+=======
 this is second change
+>>>>>>> feature2
